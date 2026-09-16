@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Mrabbas2007">
+  <a href="https://github.com/mrabbas-codes">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8957e5&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Abbas" alt="Hello! I&#39;m Abbas" />
   </a>
 </p>
@@ -48,14 +48,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Mrabbas2007&show_icons=true&theme=tokyonight&title_color=8957e5&icon_color=8957e5&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Mrabbas2007&layout=compact&theme=tokyonight&title_color=8957e5&icon_color=8957e5&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=mrabbas-codes&show_icons=true&theme=tokyonight&title_color=8957e5&icon_color=8957e5&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=mrabbas-codes&layout=compact&theme=tokyonight&title_color=8957e5&icon_color=8957e5&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mrabbas2007&bg_color=00000000&color=8957e5&line=8957e5&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mrabbas-codes&bg_color=00000000&color=8957e5&line=8957e5&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 
