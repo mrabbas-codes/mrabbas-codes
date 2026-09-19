@@ -1,0 +1,77 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="purple" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#C4B5FD"/>
+      <stop offset="55%" stop-color="#A78BFA"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#A78BFA" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <text x="0" y="38" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="26" font-weight="500" fill="#A1A1AA">
+    Hey, I'm
+  </text>
+
+  <text x="0" y="98" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="54" font-weight="800" fill="#F4F4F5">
+    Abbas
+  </text>
+  <text x="180" y="98" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="54" font-weight="800" fill="url(#purple)">
+    SeyedAlHosseini
+  </text>
+  <text x="620" y="98" font-family="Segoe UI Emoji,Arial,sans-serif" font-size="43">
+    👋
+  </text>
+
+  <text x="0" y="142" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="600" fill="#D4D4D8">
+    Frontend Engineer
+  </text>
+
+  <text x="0" y="183" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" fill="#A1A1AA">
+    React
+  </text>
+  <circle cx="65" cy="176" r="3" fill="#71717A"/>
+  <text x="82" y="183" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" fill="#A1A1AA">
+    Next.js
+  </text>
+  <circle cx="168" cy="176" r="3" fill="#71717A"/>
+  <text x="186" y="183" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" fill="#A1A1AA">
+    TypeScript
+  </text>
+  <circle cx="293" cy="176" r="3" fill="#71717A"/>
+  <text x="311" y="183" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" fill="#A1A1AA">
+    Tailwind CSS
+  </text>
+
+  <rect x="0" y="204" width="42" height="4" rx="2" fill="url(#purple)" filter="url(#glow)"/>
+
+  <text x="0" y="243" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" fill="#D4D4D8">
+    I build modern, performant and accessible web applications
+  </text>
+  <text x="0" y="270" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" fill="#D4D4D8">
+    with a focus on clean UI and great user experience.
+  </text>
+
+  <!-- right-side decorative mark -->
+  <g transform="translate(900,48)" opacity="0.95">
+    <path d="M22 137C86 72 102 24 150 24C187 24 187 73 154 90C126 105 106 97 110 72C115 39 165 0 213 17C256 32 280 72 257 111C240 141 205 145 183 125"
+          stroke="url(#purple)" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+    <path d="M30 148C98 88 110 44 155 45C181 46 187 76 162 87C139 97 121 89 126 70C134 40 169 23 207 27"
+          stroke="#7C3AED" stroke-opacity="0.35" stroke-width="7" fill="none" stroke-linecap="round"/>
+    <path d="M145 53L205 74L173 105L131 94L145 53Z" fill="#16121F" stroke="#A78BFA" stroke-width="1.6"/>
+    <path d="M174 105L205 74L206 118L183 140L174 105Z" fill="#0F0C16" stroke="#7C3AED" stroke-width="1.4"/>
+    <path d="M131 94L174 105L183 140L149 121L131 94Z" fill="#17111E" stroke="#C4B5FD" stroke-opacity="0.45" stroke-width="1.2"/>
+    <text x="32" y="184" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="3.5" fill="#A78BFA">
+      BUILD · LEARN · GROW
+    </text>
+  </g>
+</svg>
